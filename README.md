@@ -30,9 +30,10 @@ Copyright © 2018 Dongee-W
 Licensed under the [MIT](LICENSE.txt) License.
 
 ## Contact
-Feel free to e-mail me at 101summerlight@gmail.com
 
-![Dongee-W](elegant.png)
+![Dongee-W](elegant_ss.png)
+
+Feel free to e-mail me at 101summerlight@gmail.com
 
 
 
